@@ -1,4 +1,3 @@
-# WEDEPART2
 # st10506739WEDEPART2
 # HER Foundation Website
 
@@ -187,3 +186,4 @@ All notable changes to this project are documented below, newest first.
 ## License
 
 This project is provided for HER. Foundation's use. Add a license of your choice here (e.g. MIT) if you'd like to open it up for reuse.
+
